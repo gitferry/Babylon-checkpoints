@@ -17,6 +17,6 @@ We use the sending time as the begining of each hour in our calculation.
 Transactions of the same checkpoint with different fee levels are sent simultaneously.
 
 The confirmation duration is measured from the time the transactions are sent, to the time both the transactions are included in a block on blockchain.
-The six-deep time is measured from the time the transactions are confirmed until the time the relevant block is confirmed 6 times.
-The twenty-deep time is measured from the time the transactions are confirmed until the time the relevant block is confirmed 20 times.
-To check the transactions sent during the experiment, please use the txid in `measurements.json`.
+The six-deep time is measured from the transaction sending time to the time the relevant block is confirmed 6 times.
+The twenty-deep time is measured from the transaction sending time to the time the relevant block is confirmed 20 times.
+To check the transactions sent during the experiment, please use the txid in `measurements.json` and an BTC explorer, e.g., live.blockcypher.com.
