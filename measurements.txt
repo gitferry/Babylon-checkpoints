@@ -1,8 +1,7 @@
 {
     "checkpoints": [
         {
-            "index": 2,
-            "time": 16,
+            "time": 1,
             "fastfee": {
                 "tx1": "68fe2d1668f91586a357732acc345b3a6655351dcf2e56c9837da8c979fcb111",
                 "tx2": "9445dc89dd728924d4eba102b010dae149fd5b54e49c78b6d7290e424e45d7d8",
@@ -19,8 +18,7 @@
             }
         },
         {
-            "index": 5,
-            "time": 17,
+            "time": 2,
             "fastfee": {
                 "tx1": "7ff44a1dcb54d24c693bed8a5b07f1d9903f6076dd27219f851b3e5b98cfa3ff",
                 "tx2": "4d716cf5355ee72973ca54cb4c3e27cfa178a29293b6de135d6da9f6c1b779d8",
@@ -37,8 +35,7 @@
             }
         },
         {
-            "index": 6,
-            "time": 18,
+            "time": 3,
             "fastfee": {
                 "tx1": "64923d71845b069224e3dc1dbc45a5b7d0a079e50eed2dc4adb78af123c56422",
                 "tx2": "8ce713959ec736e3dc2cbbd2630cefa8bb3bba5712bdffaaec9975b0b802c9dd",
@@ -55,8 +52,7 @@
             }
         },
         {
-            "index": 8,
-            "time": 19,
+            "time": 4,
             "fastfee": {
                 "tx1": "d9106ab8da90ac77ae49dc70a09e75d6e13c92d079c3c3759b9065a9b84262e6",
                 "tx2": "e20970355e0774484179b5837872b13bb48f25fbdf73ebfc5bc388c91dd40a48",
@@ -73,8 +69,7 @@
             }
         },
         {
-            "index": 10,
-            "time": 20,
+            "time": 5,
             "fastfee": {
                 "tx1": "10c0b3797bd201ee2e968202270e3941be1b546481e69db6dcccfabc6fa162c2",
                 "tx2": "63eb2e4e78e29353fbe048a67ce36cb782c7871c29a7e4610ce993956386c63a",
@@ -91,8 +86,7 @@
             }
         },
         {
-            "index": 13,
-            "time": 21,
+            "time": 6,
             "fastfee": {
                 "tx1": "0330b40402c18dbf5a084132e35248dc2fddb757284148670328b967b8310723",
                 "tx2": "1a57318dea4a001b50b92432ecc54c38e7245095b7f39cb1c2c29f8c4e0f7db5",
@@ -109,8 +103,7 @@
             }
         },
         {
-            "index": 15,
-            "time": 22,
+            "time": 7,
             "fastfee": {
                 "tx1": "46a40f4636056270b5d52632451ff3b74b5570ae32e3ada612affb1ab8ff4074",
                 "tx2": "1af6ff000af8a0faa74b1cd0eeca291dfdd45788436e5845981b6a90deaf3994",
@@ -127,8 +120,7 @@
             }
         },
         {
-            "index": 18,
-            "time": 23,
+            "time": 8,
             "fastfee": {
                 "tx1": "23e0d87ca91b4a285a1eb3ad2fd2e97ff88f5eb7a06be1fd25091424ddeae489",
                 "tx2": "cda130cf8a765f6586e9911d626e6f3d7a646f9c60f4f5208cf76efd4ee486bf",
@@ -145,8 +137,7 @@
             }
         },
         {
-            "index": 22,
-            "time": 24,
+            "time": 9,
             "fastfee": {
                 "tx1": "ff0ff230008ec6b7140965ef5d83accca6822f5b168ee3b1655b57eefc6966ee",
                 "tx2": "50c7677c827443db98b3170d77c68853e25a13aa08fcbe10504942f4146a213a",
@@ -163,8 +154,7 @@
             }
         },
         {
-            "index": 23,
-            "time": 1,
+            "time": 10,
             "fastfee": {
                 "tx1": "d594127a3320ec1ec12cadb3a38d74fc7540459af21849355e9335880b7ecf8d",
                 "tx2": "9ec3babd43dbe63f457f1a1a262af6dbf8a81d6ac030edc4cd963b65c503c9c5",
@@ -181,8 +171,7 @@
             }
         },
         {
-            "index": 25,
-            "time": 2,
+            "time": 11,
             "fastfee": {
                 "tx1": "66cb6b94b034d2d66617b2327dbbbba687eb5de75373ee76912da9a6244beef0",
                 "tx2": "5343bcc00b5b5858143265e2208bff1c94fad077f7293e722edd0a941ee39ba4",
@@ -199,8 +188,7 @@
             }
         },
         {
-            "index": 26,
-            "time": 3,
+            "time": 12,
             "fastfee": {
                 "tx1": "0553cd5799a5f387699772a1ca33b726014ff0b5018f3f913fa0cd17db5ebca0",
                 "tx2": "611a401b0c5f0d743c390d54a7563e18ae666f75a761961ae40f25313264c23d",
@@ -217,8 +205,7 @@
             }
         },
         {
-            "index": 27,
-            "time": 4,
+            "time": 13,
             "fastfee": {
                 "tx1": "33b621cc0ed00b9d30feeaa57154b5ba8fa59cfb8c9be1db73e4400132d5795e",
                 "tx2": "0875e1ec536501bd0543323a83c85b61bede57d8b74341b1f8bc4f64e2164346",
@@ -235,8 +222,7 @@
             }
         },
         {
-            "index": 28,
-            "time": 5,
+            "time": 14,
             "fastfee": {
                 "tx1": "8dfb0c8fd304cbde936f1036b4c89fb8f88f5c9107b7a718bee1b759ffe97b05",
                 "tx2": "ea2b99e51a85ec31d83f29a7dcca8d9e42d9b4b5c1e9c7258a45776b9eebc4f3",
@@ -253,8 +239,7 @@
             }
         },
         {
-            "index": 29,
-            "time": 6,
+            "time": 15,
             "fastfee": {
                 "tx1": "4227ab3c7ad5f335eae6695fa5ddc773cc3174763d4fcefa6340973da18591df",
                 "tx2": "4bb32c03db76d00fd22b4faa45cc87ca779c152893f11565d647323dcc4a57d7",
@@ -271,8 +256,7 @@
             }
         },
         {
-            "index": 30,
-            "time": 7,
+            "time": 16,
             "fastfee": {
                 "tx1": "8e63ce16759d7ef3f9701d74c1e6a42a16279663c75835bc85d7d0be444795f2",
                 "tx2": "b62488377b0384105f667ba4ecb3c71d8345e9f2d52a060a55e94519f0126c03",
@@ -289,8 +273,7 @@
             }
         },
         {
-            "index": 31,
-            "time": 8,
+            "time": 17,
             "fastfee": {
                 "tx1": "4e9b5f0409722e7a7d90580f858f4567bc04111ab9a32b50dfec3f0c139b07e1",
                 "tx2": "af1dc2f876c667a9d6a49bc74923546e21663397c15605457b324d43959e69d0",
@@ -307,8 +290,7 @@
             }
         },
         {
-            "index": 32,
-            "time": 9,
+            "time": 18,
             "fastfee": {
                 "tx1": "876d9a0f5c0975c40b33be9fb014e5cc074a6026b013abb4d09903d87f3e7a89",
                 "tx2": "626848afc8c2339229341618bd38cf96a89535eb758f32de05c4644b23ef23ab",
@@ -325,8 +307,7 @@
             }
         },
         {
-            "index": 33,
-            "time": 10,
+            "time": 19,
             "fastfee": {
                 "tx1": "08dcf844be57fb0b283cafd4e758588b96dfb45f6b08506b5b3cda0aca7926db",
                 "tx2": "facf85544e0cbad27439fb7b4b0b64e7f7d8784a817410882a541a53daa140b4",
@@ -343,8 +324,7 @@
             }
         },
         {
-            "index": 34,
-            "time": 11,
+            "time": 20,
             "fastfee": {
                 "tx1": "4f34df8225822691b1ba705cfd7fa8dc967b2e2bdfb0eb6a7af03310ca392ad3",
                 "tx2": "56040cfefce459e8671fd71d02d50dd2805dc10bc33399bb59fb88598d4fb0a9",
@@ -361,8 +341,7 @@
             }
         },
         {
-            "index": 35,
-            "time": 12,
+            "time": 21,
             "fastfee": {
                 "tx1": "a3f948df614cb0fb15d5a786a2456f2f5c184279984282c4e26c67252bbdcf84",
                 "tx2": "169faaf1a11e8de4eaab132cdf0ad8fb0cae3a68ab32b1e921e8aee43031fd9a",
@@ -379,8 +358,7 @@
             }
         },
         {
-            "index": 36,
-            "time": 13,
+            "time": 22,
             "fastfee": {
                 "tx1": "e6abadfb56fdc8bcb24c49581b0972ae0c1499626f5b1323a7478cdeff1a4aa3",
                 "tx2": "4d6df8006e9c3564b3fac2de114a5be188d4da9a76b4cb835a57c5030b3cdb8d",
@@ -397,8 +375,7 @@
             }
         },
         {
-            "index": 37,
-            "time": 14,
+            "time": 23,
             "fastfee": {
                 "tx1": "7289af32173eb32c9dafcfff8435a06293beca9824741312eb82cfbdf074d62f",
                 "tx2": "0cc18194dd0d1469a7770cfa19b3f9e489cea7bd0b7ffc7d915c5498782c8f87",
@@ -415,8 +392,7 @@
             }
         },
         {
-            "index": 38,
-            "time": 15,
+            "time": 24,
             "fastfee": {
                 "tx1": "9c5a8194daf1a53a0fda5bd4dc99aaf254f1e388f0a46a13bec716a8a86cfbeb",
                 "tx2": "f83be1f90f779e1cadbfe01414e2d8e3a852c4f917b766bf89575aa91ea3a788",
