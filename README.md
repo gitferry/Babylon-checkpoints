@@ -16,8 +16,6 @@ tx2 size: 183 bytes
 
 During the experiment, we sent checkpoints hourly in two different fee levels.
 The transactions are sent at the beginning of each hour starting from Aug. 18, 1:00 a.m. to Aug. 19 1:00 a.m. PT.
-The sending time is not precisely recorded due to the sending queue of the sender but the time difference is less than 5 minutes.
-We use the sending time as the begining of each hour in our calculation.
 Transactions of the same checkpoint with different fee levels are sent simultaneously.
 
 The confirmation duration is measured from the time the transactions are sent, to the time both the transactions are included in a block on blockchain.
